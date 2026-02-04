@@ -26,7 +26,7 @@ I am a dedicated student with a strong interest in learning new technologies and
 
 ## 🚀 Projects
 - Small programming projects (Java / Python)
-- [Amazon Clone Frontend]
+- [Amazon Clone Frontend](https://ayushsingh160107.github.io/Amazon-Clone-Modified/)
 - Practice problems from platforms like [LeetCode](https://leetcode.com/u/ayush_singh16/) & [Codeforces](https://codeforces.com/profile/ayush_singh16)
 - Academic and self-learning based projects
 
