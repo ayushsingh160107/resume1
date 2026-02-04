@@ -1,4 +1,3 @@
-# resume1
 # 👋 Ayush Singh
 
 🎓 Student | 💻 Tech Enthusiast | 🧠 Problem Solver  
@@ -27,7 +26,7 @@ I am a dedicated student with a strong interest in learning new technologies and
 
 ## 🚀 Projects
 - Small programming projects (Java / Python)
-- Practice problems from platforms like LeetCode & Codeforces
+- Practice problems from platforms like LeetCode[](https://leetcode.com/u/ayush_singh16/) & Codeforces[](https://codeforces.com/profile/ayush_singh16)
 - Academic and self-learning based projects
 
 ---
